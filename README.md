@@ -1,5 +1,5 @@
 # CSC3210---The-Pi-rates
 
-Team Coordinator: Omolola Solaru
+Team Coordinator: Crystle Yi
 
-Team Members: Crystle Yi, Zachary Combs, Benjamin Heppard, Michael Kellam
+Team Members: Zachary Combs, Benjamin Heppard, Michael Kellam, Omolola Solaru
